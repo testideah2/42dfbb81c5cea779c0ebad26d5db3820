@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "site.zaimebot.app"
         versionCode = "10"
-        version     = "1.5.0">
+        version     = "1.6.0">
 
     <name>ЗаймБОТ займы бесплатно</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/23e2d5352842ccbb754157d4267569aa.png" density="xxhdpi" />
         <icon src="res/android/icon/e88bd794e8c4ec17b894ccef034e30a8.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/663e95daaf2e1f680469751c11a58ffa.png" density="port-hdpi"/>
-        <splash src="res/android/screen/209e246fc6789f758f94458f7a433c21.png" density="port-ldpi"/>
-        <splash src="res/android/screen/7947939a6f43cee0a08b160b50f0ea09.png" density="port-mdpi"/>
-        <splash src="res/android/screen/9b7cc4bbbc20c82391da8ff853bff4c1.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/cd225b26e51b8652efc0a12c020ee98d.png" density="port-hdpi"/>
+        <splash src="res/android/screen/5179f26f5ff348a681473b511322b38f.png" density="port-ldpi"/>
+        <splash src="res/android/screen/3108bcacf4ed32f41eddcfe3c465790e.png" density="port-mdpi"/>
+        <splash src="res/android/screen/3502696ecb6bc938e85bafc05c8cdc9f.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
@@ -69,12 +69,12 @@
         <icon src="res/ios/icon/2e7b6bf684738cca1c56670d42b35adc.png" width="87" height="87" />
         <icon src="res/ios/icon/b8524ef7903e69ed1fb7e9cc020a4117.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/a22e7b2caf5281746db83ce272d875b5.png" />
-        <splash src="res/ios/screen/2ae3d958852fc0cb4ba99427c180b68a.png" />
-        <splash src="res/ios/screen/aa1dda226e3e56c98c2f5daa266eca42.png" />
-        <splash src="res/ios/screen/265690713c18ee50a47ecfdb245e9faf.png" />
-        <splash src="res/ios/screen/42da385dcd7fdd7d66855811f6a08ff3.png" />
-        <splash src="res/ios/screen/ccb68df037a03590bcf606eebd0051eb.png" />
+        <splash src="res/ios/screen/334bf6a011511c6b38a5b26dd80d94a9.png" />
+        <splash src="res/ios/screen/f25f05ba9f5b7438d01c54d74efeea20.png" />
+        <splash src="res/ios/screen/376e3bc52b24d957cc00f26e5ae0fecb.png" />
+        <splash src="res/ios/screen/12f694e904d7b456d1ffd52d1b8b3896.png" />
+        <splash src="res/ios/screen/6787527f8d57c3a6091ce8de35c3966f.png" />
+        <splash src="res/ios/screen/917a1128d669f33801a24135c0fe2ca1.png" />
     </platform>
 
     <platform name="winphone">
@@ -86,8 +86,8 @@
         <icon src="res/windows/icon/e3aff8aafee8a7207dd1168f19d47708.png" target="Square150x150Logo" />
         <icon src="res/windows/icon/17b338e52814eb4ced9a71511b373905.png" target="Square310x310Logo" />
 
-        <splash src="res/windows/screen/818b37faeffa7e681a02837ae203954c.png" target="SplashScreen"/>
-        <splash src="res/windows/screen/53ea213f79da0d6256d3bf2513716066.png" target="SplashScreenPhone"/>
+        <splash src="res/windows/screen/004c093c90cb11a197a960faa2bbae12.png" target="SplashScreen"/>
+        <splash src="res/windows/screen/20e346e6fe6d230747b1ff42b2044dfe.png" target="SplashScreenPhone"/>
     </platform>
 
     <access origin='*'/>
